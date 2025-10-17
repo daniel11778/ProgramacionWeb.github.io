@@ -24,7 +24,7 @@
 3. Parcial 4
 
     * Actividad 1
-
+ * 🔗 [CalculadoraJS](EjercicioJS/index.html)
 
     * Actividad 2
 
@@ -57,5 +57,6 @@
 | 1             | 99.9           |
 
 | 2             | 89.9           |
+
 
 | 3             | 79.9           |
